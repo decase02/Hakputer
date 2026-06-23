@@ -74,6 +74,7 @@ The Hakputer Pro CM5 should look like a fusion of **M5Stack** and **Hak5**, with
 - Friendly but technical UI
 - Colored function accents
 - Stackable accessory logic
+- Lego connectable
 
 ### Hak5-inspired traits
 
